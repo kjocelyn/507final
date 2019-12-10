@@ -8,44 +8,44 @@ Structure: Caching was set up first, database was created, then data source was 
 
 python finalproject.py
 
-1 City Population and Student Body Size
-2 Schools' Entrance Difficulty
-3 Undergraduate vs Graduate Size at a School
-4 Cost vs Acceptance Rate
+1 City Population and Student Body Size  
+2 Schools' Entrance Difficulty  
+3 Undergraduate vs Graduate Size at a School  
+4 Cost vs Acceptance Rate  
 
-Please select a visual: 1
-Please enter a Midwestern state: MI
-(opens up graph)
+Please select a visual: 1  
+Please enter a Midwestern state: MI  
+(opens up graph)  
 
-Please select a visual: 3
-Please enter a Midwestern state: North Dakota
-    1 Dickinson State University
-    2 University of Mary
-    3 Rasmussen College - Fargo
-    4 Mayville State University
-    5 University of North Dakota
-    6 Minot State University
-    7 Jamestown College
-    8 North Dakota State University
-    9 Trinity Bible College
-   10 Valley City State University
-Please select a school by the number: 1
-(opens up graph)
+Please select a visual: 3  
+Please enter a Midwestern state: North Dakota  
+    1 Dickinson State University  
+    2 University of Mary  
+    3 Rasmussen College - Fargo  
+    4 Mayville State University  
+    5 University of North Dakota  
+    6 Minot State University  
+    7 Jamestown College  
+    8 North Dakota State University  
+    9 Trinity Bible College  
+   10 Valley City State University  
+Please select a school by the number: 1  
+(opens up graph)  
 
-Please select a visual: help
+Please select a visual: help  
 
-Choose a type of graph from the list.
+Choose a type of graph from the list.  
 
-1 City Population and Student Body Size
-2 Schools' Entrance Difficulty
-3 Undergraduate vs Graduate Size at a School
-4 Cost vs Acceptance Rate
+1 City Population and Student Body Size  
+2 Schools' Entrance Difficulty  
+3 Undergraduate vs Graduate Size at a School  
+4 Cost vs Acceptance Rate  
 
-Then search a Midwestern state to get data.
+Then search a Midwestern state to get data.  
 
-If List Option 3: Pick a school from the list to compare undergraduate and graduate size.
+If List Option 3: Pick a school from the list to compare undergraduate and graduate size.  
 
-Please select a visual: exit       
-bye
+Please select a visual: exit          
+bye  
 
-*Note: Visuals 1,2,4 have the same process
+*Note: Visuals 1,2,4 have the same process  
